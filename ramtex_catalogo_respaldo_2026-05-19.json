@@ -1,0 +1,276 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-19T11:58:04.124Z",
+  "total": 14,
+  "products": [
+    {
+      "id": "mosz03x9gbxafcuauac",
+      "name": "Camisa Cuello Sport Mod. Eider",
+      "attrs": [
+        {
+          "label": "Muestra Física",
+          "key": "muestra"
+        },
+        {
+          "label": "Patrón Digital",
+          "key": "patron"
+        }
+      ],
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmosz03x9gbxafcuauac%2FimgFrente?alt=media&token=6a092e39-ba34-42d8-9613-f12e286341e0",
+      "client": "Rosewood",
+      "notes": "Molde Base Eider",
+      "desc": "Camisa Cuello \nAberturas a los costados \nOriginal lleva logo Aqui me quedo",
+      "imgEspalda": null,
+      "addedAt": 1778006230749,
+      "category": "Guayamisas y Guayaberas"
+    },
+    {
+      "id": "mosz3utd9v72p77evmr",
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmosz3utd9v72p77evmr%2FimgFrente?alt=media&token=a3d47e33-2970-49f6-8978-19673e70ec1a",
+      "attrs": [
+        {
+          "key": "muestra",
+          "label": "Muestra Física"
+        },
+        {
+          "key": "patron",
+          "label": "Patrón Digital"
+        },
+        {
+          "key": "techpack",
+          "label": "Techpack"
+        }
+      ],
+      "name": "Blusa Spa Mod. Senza",
+      "addedAt": 1778006405569,
+      "desc": "Ticalino",
+      "notes": "PEndiente agregar medidas finales a tech pack.",
+      "client": "Royal Hideaway",
+      "imgEspalda": null,
+      "category": "Blusones y Batas"
+    },
+    {
+      "id": "mosz3ute16wx42ru0vu",
+      "desc": "Lino Murano \nAlforzas en cintura.",
+      "addedAt": 1778006405570,
+      "client": "Spa",
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmosz3ute16wx42ru0vu%2FimgFrente?alt=media&token=e50ecca7-c975-4017-8699-2588011bf2b7",
+      "category": "Blusones y Batas",
+      "imgEspalda": null,
+      "notes": "Referencia Noel Asmar",
+      "attrs": [
+        {
+          "label": "Muestra Física",
+          "key": "muestra"
+        }
+      ],
+      "name": "Bata Spa"
+    },
+    {
+      "id": "mosz3ute9igbmvxflb9",
+      "addedAt": 1778006405570,
+      "imgEspalda": null,
+      "category": "Camisas Caballero",
+      "desc": "Camisa Tipo Smoking \nAlforzas en pecho \nBoton Oculto \nCuello Paloma",
+      "name": "Camisa Oscar Smoking",
+      "notes": "Maquila Don Roberto",
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmosz3ute9igbmvxflb9%2FimgFrente?alt=media&token=a8f44035-fed7-4be7-b709-627346d7c755",
+      "attrs": [
+        {
+          "label": "Muestra Física",
+          "key": "muestra"
+        },
+        {
+          "key": "patron",
+          "label": "Patrón Digital"
+        }
+      ],
+      "client": "Royal Hideaway"
+    },
+    {
+      "id": "mosz3utenerkslh5al",
+      "addedAt": 1778006405570,
+      "desc": "-Guayamisa Alforzada \n-aberturas a los costados\n-Dos bolsas en bajos\n-4 alforzas por lado.",
+      "client": "Royal Resorts",
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmosz3utenerkslh5al%2FimgFrente?alt=media&token=a6be409c-c41f-41d5-970a-03521c9f0588",
+      "imgEspalda": null,
+      "category": "Guayamisas y Guayaberas",
+      "notes": "",
+      "attrs": [
+        {
+          "label": "Muestra Física",
+          "key": "muestra"
+        },
+        {
+          "key": "patron",
+          "label": "Patrón Digital"
+        }
+      ],
+      "name": "Guayamisa Rigo con dos bolsas en bajos."
+    },
+    {
+      "id": "mou1w1bzpr21tm22rb",
+      "attrs": [
+        {
+          "label": "Patrón Digital",
+          "key": "patron"
+        }
+      ],
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmou1w1bzpr21tm22rb%2FimgFrente?alt=media&token=3e34f5da-f2e7-4601-bd76-99c91f0a8592",
+      "name": "Camisola Industrial MC Mod. Garage",
+      "client": "Automotriz/Mantenimiento",
+      "notes": "Molde Base Roberto.",
+      "desc": "Gabardina 65/35 Pol Alg\nTapas con borde recto, \nBoton o velcro en tapa segun eleccion de cliente. \nSin boton Cuello. \nManga dobladillo regular.",
+      "imgEspalda": null,
+      "addedAt": 1778071545791,
+      "category": "Camisolas, Batas, Filipinas"
+    },
+    {
+      "id": "moue4fwbltcbat1shim",
+      "addedAt": 1778092093307,
+      "imgEspalda": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmoue4fwbltcbat1shim%2FimgEspalda?alt=media&token=b77a2e64-0372-46e3-840b-3bec06a1b629",
+      "desc": "Pantalon Corte Slim Fit\nDos vivos traseros \nBolsas Redondas al frente.\nSe requiere hacer en telas gabardina o casimir stretch.",
+      "category": "Pantalon y Bermuda Caballero",
+      "name": "Pantalon Cab. Alexander",
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmoue4fwbltcbat1shim%2FimgFrente?alt=media&token=e136d991-fe3c-4432-997e-defb87d826d2",
+      "attrs": [
+        {
+          "label": "Muestra Física",
+          "key": "muestra"
+        },
+        {
+          "label": "Patrón Digital",
+          "key": "patron"
+        }
+      ],
+      "notes": "Molde Base Alexander.",
+      "client": "Basicos"
+    },
+    {
+      "id": "movof45woz10gcprdf",
+      "desc": "Tela Revisar el tipod e tela \nEstampado en impresion textil Indumental \nBies color negro \nmanga japonesa",
+      "imgEspalda": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmovof45woz10gcprdf%2FimgEspalda?alt=media&token=2e25b2cb-1860-4bb1-802d-dc6497563b1e",
+      "addedAt": 1778169853652,
+      "category": "Vestidos",
+      "name": "Vestido Oriental Izakai",
+      "attrs": [
+        {
+          "label": "Muestra Física",
+          "key": "muestra"
+        },
+        {
+          "label": "Patrón Digital",
+          "key": "patron"
+        },
+        {
+          "label": "Techpack",
+          "key": "techpack"
+        }
+      ],
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmovof45woz10gcprdf%2FimgFrente?alt=media&token=29d4ec69-6fbe-4872-84f6-edd0578efe7e",
+      "client": "Royal Hideaway",
+      "notes": ""
+    },
+    {
+      "id": "mp9qoajueqfrcvdyud",
+      "imgEspalda": null,
+      "category": "Blusas Moda",
+      "desc": "Blusa MAnga 3/4 con Doblez al frente. Cuello redonde y abertura en espalda con boton. Preferentemente se usa por fuera.",
+      "notes": "Tiene la posibilidad de hacer una costura para que el doblez no se mueva. \nTelas recomendadas: Elira, Tiara, REquiere cuidado al planchar especialmente el doblez.",
+      "client": "Moda",
+      "addedAt": 1779020167530,
+      "name": "Blusa Moda Mod. Sandra",
+      "attrs": [
+        {
+          "label": "Muestra Física",
+          "key": "muestra"
+        }
+      ],
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmp9qoajueqfrcvdyud%2FimgFrente?alt=media&token=7900a175-666b-4040-918f-9dd2f7932212"
+    },
+    {
+      "id": "mp9qoajx4wsq8elgxgr",
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmp9qoajx4wsq8elgxgr%2FimgFrente?alt=media&token=314fd3b9-9266-49c8-b016-346461da8fb5",
+      "attrs": [
+        {
+          "label": "Muestra Física",
+          "key": "muestra"
+        }
+      ],
+      "name": "Blusa Moda Mod. Sandra",
+      "notes": "Tiene la posibilidad de hacer una costura para que el doblez no se mueva. \nTelas recomendadas: Elira, Tiara, REquiere cuidado al planchar especialmente el doblez.",
+      "desc": "Blusa MAnga 3/4 con Doblez al frente. Cuello redonde y abertura en espalda con boton. Preferentemente se usa por fuera.",
+      "client": "Moda",
+      "category": "Blusas Moda",
+      "imgEspalda": null,
+      "addedAt": 1779020167533
+    },
+    {
+      "id": "mp9qoajxjp88rgbw5wa",
+      "attrs": [
+        {
+          "key": "muestra",
+          "label": "Muestra Física"
+        }
+      ],
+      "name": "Blusa Moda Mod. Sandra",
+      "imgEspalda": null,
+      "category": "Blusas Moda",
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmp9qoajxjp88rgbw5wa%2FimgFrente?alt=media&token=c413338b-d338-43cc-8d41-f99618081a20",
+      "notes": "Tiene la posibilidad de hacer una costura para que el doblez no se mueva. \nTelas recomendadas: Elira, Tiara, REquiere cuidado al planchar especialmente el doblez.",
+      "addedAt": 1779020167533,
+      "desc": "Blusa MAnga 3/4 con Doblez al frente. Cuello redonde y abertura en espalda con boton. Preferentemente se usa por fuera.",
+      "client": "Moda"
+    },
+    {
+      "id": "mpb5pba4i09bs6vff9",
+      "notes": "Basada en mod. Original de Rams \nCombinacion tela bruselas, esstampado puede ser variable de acuerdo a disponibilidad de proveedor.",
+      "name": "Camisa Comb. Zante C",
+      "client": "Corasol",
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmpb5pba4i09bs6vff9%2FimgFrente?alt=media&token=c26ee60b-18e5-49ff-9336-fe7328fb43ab",
+      "attrs": [
+        {
+          "key": "muestra",
+          "label": "Muestra Física"
+        },
+        {
+          "key": "patron",
+          "label": "Patrón Digital"
+        }
+      ],
+      "imgEspalda": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmpb5pba4i09bs6vff9%2FimgEspalda?alt=media&token=1fb2ede0-6d19-41ed-9e0a-aff5d5d2aede",
+      "addedAt": 1779105875548,
+      "desc": "Lino Comfort. comb. Coral",
+      "category": "Camisas Caballero"
+    },
+    {
+      "id": "mpb5y6uqhhhucglilgd",
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmpb5y6uqhhhucglilgd%2FimgFrente?alt=media&token=de7a18bb-74e9-4b3e-bcc1-7c0b002318f5",
+      "attrs": [],
+      "client": "Moda",
+      "name": "Blusa Mod. Sandra Zafiro",
+      "notes": "",
+      "category": "Blusas Moda",
+      "desc": "",
+      "addedAt": 1779106289714,
+      "imgEspalda": null
+    },
+    {
+      "id": "mpb6dbzqu2e2ny07os",
+      "addedAt": 1779106996214,
+      "name": "Camisa Eduardo Arrremangable",
+      "imgFrente": "https://firebasestorage.googleapis.com/v0/b/ramtex-catalogo.firebasestorage.app/o/products%2Fmpb6dbzqu2e2ny07os%2FimgFrente?alt=media&token=5f5c1f9c-4a56-4d18-b412-9a93a6bc5708",
+      "notes": "Tela Lino Comfort Azul",
+      "desc": "",
+      "imgEspalda": null,
+      "category": "Camisas Caballero",
+      "client": "Banyan Tree",
+      "attrs": [
+        {
+          "key": "muestra",
+          "label": "Muestra Física"
+        }
+      ]
+    }
+  ]
+}
